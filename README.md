@@ -18,14 +18,6 @@ Some of the technologies and tools that I work with are:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
 
-## Projects
-
-Here are some of the notable projects that I've worked on:
-
-- [Project 1](link-to-project)
-- [Project 2](link-to-project)
-- [Project 3](link-to-project)
-
 ## Hobbies
 
 When I'm not coding, you can find me playing basketball, exploring the latest e-sports games, or reading a good book on technology.
