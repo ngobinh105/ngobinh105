@@ -17,7 +17,7 @@ I'm a Software Developer with a passion for building efficient, scalable, and us
 ## :hammer_and_wrench: Languages & Tools
 <br />
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,vue,prisma,nodejs,expressjs,nestjs,mongodb,postgresql,mysql,aws)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,vue,nuxt,prisma,nodejs,expressjs,nestjs,mongodb,postgresql,mysql,aws)
 
 <br />
 
